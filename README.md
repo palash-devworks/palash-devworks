@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @palash-devworks (Abhinav Palash)
-- 👀 I’m interested in building AI Agents, focused on B2B applications but also experimenting in other fun areas from time to time.
+- 👀 I’m interested in building AI Agents, focused on B2B applications but also experimenting in other fun areas.
 - 🌱 I’m currently learning all things AI (infrastructure, emerging patterns, and so on...)
 - 💞️ I’m looking to collaborate on AI Agents, RAG pipelines, AI enabled UX
 - 📫 How to reach me www.abhinavpalash.com
